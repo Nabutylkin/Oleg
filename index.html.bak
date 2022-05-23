@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>My website</title>
+	<link href="css/style.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+	
+    <h1 id "top">Это Fallout детка</h1>
+	<div>
+		<img src="imgg/Falloutboysetting.jpg" width="160" height="129" align="left" hspace="15" alt="fallout">
+	</div>
+	<div>
+		<h1>Война....Война никогда не меняется</h1>
+	</div>
+	<p>
+		<a href="https://www.youtube.com/watch?v=OGrJmAoFSgo" target="_blank">США сасать</a>
+	</p>
+	<p>
+		<strong>Проверка тегов<strong>
+	</p>
+	<p>Включи пипбой</p> 
+<hr>	
+	<br>Ту заскучаешь по ядерной зииме <br>  
+	<ol type="A">
+		<li>2022</li>
+		<li>2023</li>
+		<li>2024</li>
+	</ol>
+	<table border="2">
+		<tr>
+			<th>1</th>
+			<th>2</th>
+			<th>3</th>
+			<th>4</th>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>2</td>
+			<td>3</td>
+			<td>4</td>
+		</tr>
+		
+	</table>
+    <input placeholder="yes">
+	
+	<p>
+		<audio controls>
+			<Source src="music/Fallout.mp3" type="audio/mpeg">
+		</audio>
+	</p>	  
+	<p>
+	 <video controls width="300"> 
+		<source src="">
+	 </video>
+	</p>
+	<!-- Поделал-->
+	
+	
+	</body>
+</html>
